@@ -1,5 +1,6 @@
-n=int(input())
-talalt=False
+n=int(input("Give a number"))
+talalt = False
+osszeg=0
 
 for x in range(n-1,1,-1):
     osszeg=0
